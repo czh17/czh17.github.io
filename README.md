@@ -61,7 +61,7 @@ Short and daily paper reading
   </tr>
   <tr>
     <td>*Ziheng Cheng</td>
-    <td>0</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>*Fuqiang Yu</td>
